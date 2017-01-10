@@ -1,0 +1,64 @@
+﻿body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    color:blue;
+    font-family:Arial;
+    font-style:italic;
+    margin: 50px;
+}
+
+
+p {
+    color: darkgreen;
+    font-size: 25px;
+    font-family:Verdana, Arial, Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+.purplearea {
+    color:purple;
+}
+
+p.frame {
+    padding: 20px 20px 20px 20px;
+    background-color: silver;
+    background-image: url(Images/clouds.jpg);
+    border-color: black;
+    border-width: thick;
+    border-style: ridge;
+    border-radius: 10px;
+}
+
+.underline {
+    text-decoration:underline;
+}
+
+.imagec {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: silver;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+
+}
+
+#paragraph3homepage {
+    padding: 30px 30px 30px 30px;
+    background-color: azure;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#divmain {
+    color: black;
+}
